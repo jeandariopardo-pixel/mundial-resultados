@@ -1,0 +1,74 @@
+⚽
+Polla Mundial 2026
+Cargando...
+
+CONECTANDO
+—
+🔄 Actualizar
+🔌 API: TheSportsDB — gratuita, sin registro, CORS abierto
+⏱ Auto-refresh: 3 min
+Iniciando...
+EVALUADOS
+—
+de 72 partidos
+PUNTOS
+—
+máximo: 216
+EXACTOS
+—
++3 pts c/u
+SIGNO CORRECTO
+—
++1 pt c/u
+FALLOS
+—
+0 pts
+PRECISIÓN
+—
+% con punto
+📊 RENDIMIENTO ACUMULADO
+
+📅 PRÓXIMOS PARTIDOS
+Cargando...
+📋 CONTROL DE PREDICCIONES
+
+          Todos los grupos
+          ABCD
+          EFGH
+          IJKL
+        
+          Todos los estados
+          ✅ Exacto
+          🟡 Acierto signo
+          ❌ Fallo
+          🔵 Hoy
+          ⏳ Pendiente
+        
+72 partidos
+FECHA ↕
+GRP ↕
+CÓD.
+PARTIDO
+TU PREDICCIÓN
+RESULTADO REAL
+ESTADO ↕
+PTS ↕
+⏳ Cargando resultados del Mundial...
+
+Exacto 3 pts
+
+Signo 1 pt
+
+Fallo 0 pts
+
+Hoy
+
+Pendiente
+API: TheSportsDB · Predicciones: Jean Pardo · GDR
+📁 Estructura de archivos (GitHub Pages)
+	•	index.html — este dashboard (no tocar)
+	•	predictions.json — tus predicciones (editar aquí para nuevas pollitas)
+	•	schedule.json — calendario del torneo
+	•	config.js — ajustes: intervalo, puntuación, API URL
+Para publicar: ve a tu repositorio en GitHub → Settings → Pages → Branch: main → /root → Save. Listo, tendrás una URL pública que se actualiza automáticamente.
+
