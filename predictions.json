@@ -1,0 +1,434 @@
+{
+  "G1": [
+    "México",
+    "Sudáfrica",
+    1,
+    0
+  ],
+  "G2": [
+    "Corea del Sur",
+    "República Checa",
+    1,
+    0
+  ],
+  "G3": [
+    "México",
+    "Corea del Sur",
+    1,
+    1
+  ],
+  "G4": [
+    "Sudáfrica",
+    "República Checa",
+    0,
+    1
+  ],
+  "G5": [
+    "México",
+    "República Checa",
+    2,
+    1
+  ],
+  "G6": [
+    "Sudáfrica",
+    "Corea del Sur",
+    0,
+    1
+  ],
+  "G7": [
+    "Canadá",
+    "Bosnia y Herzegovina",
+    1,
+    1
+  ],
+  "G8": [
+    "Catar",
+    "Suiza",
+    1,
+    1
+  ],
+  "G9": [
+    "Canadá",
+    "Catar",
+    1,
+    0
+  ],
+  "G10": [
+    "Bosnia y Herzegovina",
+    "Suiza",
+    0,
+    1
+  ],
+  "G11": [
+    "Canadá",
+    "Suiza",
+    1,
+    1
+  ],
+  "G12": [
+    "Bosnia y Herzegovina",
+    "Catar",
+    1,
+    1
+  ],
+  "G13": [
+    "Brasil",
+    "Marruecos",
+    2,
+    1
+  ],
+  "G14": [
+    "Haití",
+    "Escocia",
+    0,
+    1
+  ],
+  "G15": [
+    "Brasil",
+    "Haití",
+    2,
+    0
+  ],
+  "G16": [
+    "Marruecos",
+    "Escocia",
+    2,
+    0
+  ],
+  "G17": [
+    "Brasil",
+    "Escocia",
+    3,
+    0
+  ],
+  "G18": [
+    "Marruecos",
+    "Haití",
+    2,
+    0
+  ],
+  "G19": [
+    "Estados Unidos",
+    "Paraguay",
+    2,
+    0
+  ],
+  "G20": [
+    "Australia",
+    "Turquía",
+    0,
+    2
+  ],
+  "G21": [
+    "Estados Unidos",
+    "Australia",
+    1,
+    0
+  ],
+  "G22": [
+    "Paraguay",
+    "Turquía",
+    1,
+    1
+  ],
+  "G23": [
+    "Estados Unidos",
+    "Turquía",
+    1,
+    1
+  ],
+  "G24": [
+    "Paraguay",
+    "Australia",
+    2,
+    1
+  ],
+  "G25": [
+    "Alemania",
+    "Curazao",
+    3,
+    0
+  ],
+  "G26": [
+    "Costa de Marfil",
+    "Ecuador",
+    1,
+    1
+  ],
+  "G27": [
+    "Alemania",
+    "Costa de Marfil",
+    2,
+    0
+  ],
+  "G28": [
+    "Curazao",
+    "Ecuador",
+    0,
+    1
+  ],
+  "G29": [
+    "Alemania",
+    "Ecuador",
+    2,
+    0
+  ],
+  "G30": [
+    "Curazao",
+    "Costa de Marfil",
+    0,
+    2
+  ],
+  "G31": [
+    "Países Bajos",
+    "Japón",
+    1,
+    1
+  ],
+  "G32": [
+    "Suecia",
+    "Túnez",
+    2,
+    0
+  ],
+  "G33": [
+    "Países Bajos",
+    "Suecia",
+    2,
+    1
+  ],
+  "G34": [
+    "Japón",
+    "Túnez",
+    1,
+    0
+  ],
+  "G35": [
+    "Países Bajos",
+    "Túnez",
+    2,
+    0
+  ],
+  "G36": [
+    "Japón",
+    "Suecia",
+    1,
+    1
+  ],
+  "G37": [
+    "Bélgica",
+    "Egipto",
+    2,
+    0
+  ],
+  "G38": [
+    "Irán",
+    "Nueva Zelanda",
+    1,
+    0
+  ],
+  "G39": [
+    "Bélgica",
+    "Irán",
+    1,
+    0
+  ],
+  "G40": [
+    "Egipto",
+    "Nueva Zelanda",
+    2,
+    0
+  ],
+  "G41": [
+    "Bélgica",
+    "Nueva Zelanda",
+    2,
+    0
+  ],
+  "G42": [
+    "Egipto",
+    "Irán",
+    2,
+    1
+  ],
+  "G43": [
+    "España",
+    "Cabo Verde",
+    3,
+    0
+  ],
+  "G44": [
+    "Arabia Saudí",
+    "Uruguay",
+    1,
+    1
+  ],
+  "G45": [
+    "España",
+    "Arabia Saudí",
+    2,
+    0
+  ],
+  "G46": [
+    "Cabo Verde",
+    "Uruguay",
+    0,
+    2
+  ],
+  "G47": [
+    "España",
+    "Uruguay",
+    2,
+    0
+  ],
+  "G48": [
+    "Cabo Verde",
+    "Arabia Saudí",
+    1,
+    1
+  ],
+  "G49": [
+    "Francia",
+    "Senegal",
+    2,
+    1
+  ],
+  "G50": [
+    "Irak",
+    "Noruega",
+    0,
+    2
+  ],
+  "G51": [
+    "Francia",
+    "Irak",
+    4,
+    0
+  ],
+  "G52": [
+    "Senegal",
+    "Noruega",
+    1,
+    1
+  ],
+  "G53": [
+    "Francia",
+    "Noruega",
+    2,
+    1
+  ],
+  "G54": [
+    "Senegal",
+    "Irak",
+    2,
+    0
+  ],
+  "G55": [
+    "Argentina",
+    "Argelia",
+    3,
+    0
+  ],
+  "G56": [
+    "Austria",
+    "Jordania",
+    2,
+    0
+  ],
+  "G57": [
+    "Argentina",
+    "Austria",
+    2,
+    1
+  ],
+  "G58": [
+    "Argelia",
+    "Jordania",
+    1,
+    0
+  ],
+  "G59": [
+    "Argentina",
+    "Jordania",
+    2,
+    0
+  ],
+  "G60": [
+    "Argelia",
+    "Austria",
+    0,
+    2
+  ],
+  "G61": [
+    "Portugal",
+    "RD Congo",
+    3,
+    0
+  ],
+  "G62": [
+    "Uzbekistán",
+    "Colombia",
+    0,
+    2
+  ],
+  "G63": [
+    "Portugal",
+    "Uzbekistán",
+    2,
+    0
+  ],
+  "G64": [
+    "RD Congo",
+    "Colombia",
+    0,
+    2
+  ],
+  "G65": [
+    "Portugal",
+    "Colombia",
+    1,
+    1
+  ],
+  "G66": [
+    "RD Congo",
+    "Uzbekistán",
+    1,
+    1
+  ],
+  "G67": [
+    "Inglaterra",
+    "Croacia",
+    2,
+    1
+  ],
+  "G68": [
+    "Ghana",
+    "Panamá",
+    2,
+    0
+  ],
+  "G69": [
+    "Inglaterra",
+    "Ghana",
+    2,
+    1
+  ],
+  "G70": [
+    "Croacia",
+    "Panamá",
+    2,
+    0
+  ],
+  "G71": [
+    "Inglaterra",
+    "Panamá",
+    3,
+    0
+  ],
+  "G72": [
+    "Croacia",
+    "Ghana",
+    2,
+    2
+  ]
+}
